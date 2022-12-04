@@ -1,0 +1,10 @@
+Sequelize Integration https://docs.nestjs.com/techniques/database#sequelize-integration
+  npm install --save @nestjs/sequelize sequelize sequelize-typescript
+Install sequelize for postgres https://sequelize.org/docs/v6/getting-started/
+  npm install --save pg pg-hstore
+Install type for sequelize
+  npm install --save-dev @types/sequelize
+Install Nest configurate https://docs.nestjs.com/techniques/configuration
+  npm install --save @nestjs/config
+Install cross-env https://www.npmjs.com/package/cross-env
+  npm install --save-dev cross-env

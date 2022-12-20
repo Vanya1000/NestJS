@@ -12,6 +12,8 @@ Install swagger and package for UI https://docs.nestjs.com/openapi/introduction
   npm install --save @nestjs/swagger swagger-ui-express
 Install JWT https://docs.nestjs.com/security/authentication and bcryptjs
   npm i @nestjs/jwt bcryptjs
+Install validator https://docs.nestjs.com/techniques/validation
+  npm install --save class-validator class-transformer
 Nest CLI
   npm install -g @nestjs/cli
   nest generate module roles 

@@ -14,6 +14,10 @@ Install JWT https://docs.nestjs.com/security/authentication and bcryptjs
   npm i @nestjs/jwt bcryptjs
 Install validator https://docs.nestjs.com/techniques/validation
   npm install --save class-validator class-transformer
+Install uuid https://www.npmjs.com/package/uuid
+  npm install --save uuid
+Install static files https://docs.nestjs.com/recipes/serve-static#serve-static
+  npm install --save @nestjs/serve-static
 Nest CLI
   npm install -g @nestjs/cli
   nest generate module roles 

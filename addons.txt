@@ -23,3 +23,7 @@ Nest CLI
   nest generate module roles 
   nest generate service roles
   nest generate controller roles
+
+POSTGRES_HOST=postgres change to POSTGRES_HOST=localhost for without docker
+  docker-compose build 
+  docker-compose up
